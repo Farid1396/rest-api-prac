@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "Ficciones",
+        "authorId": "1",
+        "authorBook": ""
+    },
+    {
+        "id": "2",
+        "name": "La biblioteca de Babel",
+        "authorId": "1",
+        "authorBook": ""
+    },
+    {
+        "id": "3",
+        "name": "Rayuela",
+        "authorId": "2",
+        "authorBook": ""
+    },
+    {
+        "id": "4",
+        "name": "Casa tomada",
+        "authorId": "2",
+        "authorBook": ""
+    },
+    {
+        "id": "5",
+        "name": "Animales Fantásticos y dónde encontrarlos",
+        "authorId": "3",
+        "authorBook": ""
+    },
+    {
+        "id": "6",
+        "name": "Harry Potter y la piedra filosofal",
+        "authorId": "3",
+        "authorBook": ""
+    }
+]
